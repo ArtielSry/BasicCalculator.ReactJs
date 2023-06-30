@@ -1,0 +1,22 @@
+body {
+  padding: 10em;
+}
+
+input {
+  padding: 5px;
+  margin-bottom: 10px;
+  display: block;
+}
+button {
+  margin-right: 10px;
+  padding: 10px;
+  cursor: pointer;
+  border: 1px solid rgb(186, 186, 186);
+  border-radius: 5px;
+  font-size: 20px;
+}
+
+.orange {
+  background-color: rgb(255, 128, 0);
+  color: white;
+}
